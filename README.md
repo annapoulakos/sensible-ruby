@@ -1,1 +1,3 @@
-# sensible-ruby
+# Sensible Ruby
+
+Please use Python.
